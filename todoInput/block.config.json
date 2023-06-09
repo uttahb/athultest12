@@ -2,8 +2,8 @@
   "name": "athultest12_todoInput",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/uttahb/athultest12.git",
+    "ssh": "git@github.com:uttahb/athultest12.git",
     "branch": "block_athultest12_todoInput"
   },
   "language": "js",
